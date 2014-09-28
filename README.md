@@ -27,10 +27,10 @@ Try this...
 =======
 
 * Hello, this is shayx's change!
-This is my line. don't touch it!
+This is my line. don't touch it! I didn't touch!!
 Yair! don't fetch!
 mwouhahahahah
-Yair! don't fetch!
+Yair! don't fetch! Doubled
 
 Well :)
 
