@@ -6,6 +6,7 @@ This is a new line.
 
 Hello github.
 
+<<<<<<< HEAD
 
 
 Let's see what happens #Liran
@@ -23,3 +24,15 @@ mwouhahahahah
 Well :)
 
 Try this...
+=======
+
+* Hello, this is shayx's change!
+This is my line. don't touch it!
+Yair! don't fetch!
+mwouhahahahah
+Yair! don't fetch!
+
+Well :)
+
+Try this...
+>>>>>>> c2e805edd43b13257324d818ee7bf9ba8d422e62
